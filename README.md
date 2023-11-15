@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josiahchantiny
 - 👀 I’m interested in cool add ons to a game like adding more pets in prodigy math game or a new contrast on vectaria.
 - 🌱 I’m currently learning JavaScript and neeed a better teacher.
-- 💞️ I’m looking to collaborate on Anythiny mostly.
+- 💞️ I’m looking to collaborate on Anything mostly.
 - 📫 How to reach me send me an email useing josaih.chantiny@gmail.com or josiah.chantiny@icloud.com or if you have discord my username is josiah_chantiny.
 
 <!---
